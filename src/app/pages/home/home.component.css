@@ -1,0 +1,49 @@
+.fundocoluna1{
+	background-color: black;
+
+}
+.paragrafocoluna1{
+	color: white;
+	font-family: 'Markazi Text', serif;
+	text-align: center;
+
+
+}
+.imagemcoluna1{
+	position:relative;
+	left: 600px;
+}
+.paragrafocoluna2{
+	color: white;
+	font-family: 'Markazi Text', serif;
+	text-align: center;
+}
+.paragrafocoluna3{
+	color: white;
+	font-family: 'Markazi Text', serif;
+	text-align: center;
+	font-size: 32px;
+	}
+.botao01{
+	color: white;
+	background-color: grey;
+	font-size: 30px;
+}
+.pezinho{
+	text-align: center;
+}
+.textopezinho1{
+	font-size: 20px;
+}
+.redes{
+	position: relative;
+	left:650px;
+
+}
+.textoextra{
+	color: grey;
+	width: 100%;
+	text-align: center;
+	font-size: 8px;
+
+}
